@@ -10,12 +10,12 @@ Autor: Leônidas Guilherme Moritz Pereira Rosa
 </p>
 
 <p align="center">
-  <a href="#sobre-mim">Sobre</a> •
-  <a href="#formação">Formação</a> •
-  <a href="#experiência--skills">Skills</a> •
-  <a href="#projetos-destaque">Projetos</a> •
-  <a href="#estatísticas">Stats</a> •
-  <a href="#filosofia--valores">Valores</a> •
+  <a href="#-sobre-mim">Sobre</a> •
+  <a href="#-formação">Formação</a> •
+  <a href="#-experiência--skills">Skills</a> •
+  <a href="#-projetos-destaque">Projetos</a> •
+  <a href="#-estatísticas">Stats</a> •
+  <a href="#-filosofia--valores">Valores</a> •
   <a href="#conecte-se">Contato</a>
 </p>
 
