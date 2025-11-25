@@ -9,10 +9,6 @@ Autor: Leônidas Guilherme Moritz Pereira Rosa
     alt="Banner com o nome completo de Leônidas Guilherme Moritz Pereira Rosa" />
 </p>
 
-<div align="center">
-  <strong>🇧🇷 Português</strong> · <a href="./README.en.md">🇺🇸 English Version</a>
-</div>
-
 <p align="center">
   <a href="#sobre-mim">Sobre</a> •
   <a href="#formação">Formação</a> •
@@ -24,14 +20,18 @@ Autor: Leônidas Guilherme Moritz Pereira Rosa
 </p>
 
 <!-- Animação de digitação corrigida (redução de largura e linhas mais curtas) -->
+<h2 align="center">
+  👋 Bem-vindo ao meu perfil! 
+</h2>
+<h4 align="center">
+  Cristão 🙏 | Marido da Bruna 👩‍❤️‍👨 | Papai da Hanna Elizadora 👶<br>
+  Apaixonado por tecnologia 💻 e pessoas 🤝 | Voluntário 💛
+</h4>
+
+---
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=4FC3F7&center=true&vCenter=true&width=440&lines=Software+Developer;Squad+Leader;Foco+em+Valor+e+Excelência;Desenvolvedor+Destaque+HCM+2023"
-    alt="Painel animado com funções e destaques profissionais" />
-</p>
-<!-- Fallback acessível caso a animação não carregue -->
-<p align="center">
-  <noscript><em>Software Developer · Squad Leader · Foco em Valor e Excelência · Destaque HCM 2023</em></noscript>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=7F7FD5&center=true&vCenter=true&width=540&height=45&lines=Desenvolvedor+de+Software+FullStack;Squad+Leader+na+Senior+Sistemas;Dev+Premiado+em+2023+na+Senior+Sistemas;Apaixonado+por+Cristo%2C+fam%C3%ADlia+%26+tecnologia" alt="Typing animation" />
 </p>
 
 ---
@@ -100,9 +100,9 @@ Musical, viajante, fã de cinema, futebol e bons momentos à mesa. Amo a Cristo 
 
 | Projeto | Stack | Descrição |
 |---------|-------|----------|
-| [Unigeventos Backend](https://github.com/leomoritz/unigeventos-backend) | Node.js · PostgreSQL · REST | API para gestão de eventos |
-| [Unigeventos Frontend](https://github.com/leomoritz/unigeventos-frontend) | React · Next.js · TS | Interface moderna de eventos |
-| [App Family Financial](https://github.com/leomoritz/app-family-financial) | React Native | Controle financeiro familiar |
+| [Unigeventos Backend](https://github.com/leomoritz/unigeventos-backend) | JAVA · Spring · PostgreSQL · REST | API para gestão de eventos |
+| [Unigeventos Frontend](https://github.com/leomoritz/unigeventos-frontend) | React · Next.js · TS | Interface moderna para gestão de eventos |
+| [App Family Financial](https://github.com/leomoritz/app-family-financial) | Flutter · Dart | Controle financeiro familiar |
 
 > Mais em [todos os repositórios](https://github.com/leomoritz?tab=repositories).
 
@@ -111,26 +111,28 @@ Musical, viajante, fã de cinema, futebol e bons momentos à mesa. Amo a Cristo 
 ## 📊 Estatísticas
 <!-- Painéis reorganizados para evitar quebra em telas menores -->
 <div align="center">
-  <picture>
-    <img height="155"
-         src="https://github-readme-stats.vercel.app/api?username=leomoritz&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=7200"
-         alt="Painel geral de estatísticas do GitHub (commits, stars, etc)" />
-  </picture>
-  <picture>
-    <img height="155"
-         src="https://github-readme-streak-stats.herokuapp.com?user=leomoritz&theme=tokyonight&hide_border=true"
-         alt="Painel da sequência de contribuições (streak)" />
-  </picture>
-</div>
+  <!-- Painel geral de estatísticas do GitHub (link) -->
+  <a href="https://github.com/leomoritz">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-Click%20to%20View-1e3c72?style=for-the-badge&logo=github" 
+         alt="Painel geral de estatísticas (clique para abrir leomoritz no GitHub)" />
+  </a>
+  <br>
 
-<div align="center">
-  <picture>
-    <img height="155"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoritz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200"
-         alt="Painel de principais linguagens utilizadas" />
-  </picture>
-</div>
+  <!-- Painel de streak (link) -->
+  <a href="https://github.com/leomoritz?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/Contribution%20Streak-Click%20to%20View-607d8b?style=for-the-badge&logo=github"
+         alt="Painel de sequência de contribuições (clique para abrir overview)" />
+  </a>
+  <br>
 
+  <!-- Painel de linguagens (link) -->
+  <a href="https://github.com/leomoritz?tab=repositories">
+    <img src="https://img.shields.io/badge/Top%20Languages-Click%20to%20View-2a5298?style=for-the-badge&logo=github"
+         alt="Painel de principais linguagens utilizadas (clique para ver repositórios)" />
+  </a>
+  <br>
+</div>
+ 
 <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=leomoritz&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"
@@ -140,15 +142,6 @@ Musical, viajante, fã de cinema, futebol e bons momentos à mesa. Amo a Cristo 
 <!-- Gráfico de contribuições alternativo como backup -->
 <div align="center">
   <img src="https://ghchart.rshah.org/1e3c72/leomoritz" alt="Gráfico anual de contribuições (backup)" />
-</div>
-
-<!-- Snake (requer workflow) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leomoritz/leomoritz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leomoritz/leomoritz/output/github-contribution-grid-snake.svg">
-    <img alt="Animação snake de contribuições" src="https://raw.githubusercontent.com/leomoritz/leomoritz/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <!-- Fallback texto caso imagens não carreguem -->
